@@ -1,6 +1,8 @@
 <!--
 please check pinned issues first!
 
+do not create an issue asking for a new version or release -- I already know!
+
 NOTE: deadsnakes only provides packages for ubuntu LTS releases (even number + .04)
 - it's a lot of  **free** work already to build packages for LTS releases
 - if you or your company would like to pay for this, please reach out directly
